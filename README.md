@@ -71,5 +71,10 @@ pytest --cov=app tests/
 | GET    | `/{short_code}` | Redirect to original URL |
 
 
-
-
+🧠 Technologies Used
+FastAPI
+PostgreSQL
+SQLAlchemy
+Pydantic
+Docker
+pytest
